@@ -79,8 +79,8 @@ The goal is always **decision, efficiency, or revenue**.
 
 ## 📫 Connect & Work With Me
 
-- 🔗 LinkedIn: *(add your real link here)*  
-- 🌐 Courses & Training Platform: *(optional)*  
+- 🔗 LinkedIn: *linkedin.com/in/davidson-oliveira*  
+- 🌐 Courses & Training Platform: *ad3.lovable.app*  
 - 💼 GitHub: *(this profile)*
 
 If your problem involves **data, BI, or AI applied to real business**, we’ll probably speak the same language.
